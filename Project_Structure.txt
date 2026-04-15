@@ -1,0 +1,34 @@
+paytrack/
+├── index.php
+├── auth.php
+├── dashboard.php
+├── customers.php
+├── invoices.php
+├── reminders.php
+├── reports.php
+├── settings.php
+├── logout.php
+├── api/
+│   ├── customers.php
+│   ├── debts.php
+│   ├── payments.php
+│   ├── invoices.php
+│   ├── reminders.php
+│   └── dashboard.php
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── dashboard.js
+│   │   ├── customers.js
+│   │   ├── main.js
+│   │   └── chart.js
+│   └── webfonts/
+├── includes/
+│   ├── config.php
+│   ├── db.php
+│   ├── auth.php
+│   ├── functions.php
+│   └── header.php
+└── sql/
+    └── database.sql
